@@ -19,7 +19,7 @@ h1 {
 hint: https://www.w3schools.com/css/css_dimension.asp
 */
 img {
-    width: 50;
+    width: 50%;
 }
 
 /* TODO: Udacity link 
@@ -63,8 +63,8 @@ hint: https://www.w3schools.com/cssref/pr_font_font-family.asp
 /* TODO: bold-paragraph class
 - for the paragraphs with the bold-paragraph class, make the text bold
 */
-p.bold-paragraph {
-    font-style: bold;
+.bold-paragraph {
+    font-weight: bold;
 }
 
 /* TODO: table
